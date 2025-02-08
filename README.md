@@ -1,4 +1,4 @@
-# Analise-Exploratoria
+# Analise-Descritva-Financiamentos
 Projeto de Analise Descritiva de Financiamentos respondendo 5 perguntas
 
 1- Qual a quantidade de clientes que possuem financiamento de cada produto?
